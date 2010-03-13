@@ -1,0 +1,7 @@
+id,text,priority,effort,meta
+3245,As a Production Engineer I would like to add Production Plans1, 30, 4, task
+3245,As a Production Engineer I would like to add Production Plans2, 30, 4, task
+3245,As a Production Engineer I would like to add Production Plans3, 30, 4, story
+3245,As a Production Engineer I would like to add Production Plans4, 30, 4, story
+3245,As a Production Engineer I would like to add Production Plans5, 30, 4, task
+3245,As a Production Engineer I would like to add Production Plans5, 30, 4, task
