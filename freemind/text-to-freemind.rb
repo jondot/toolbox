@@ -14,7 +14,7 @@ def add_node(node, root)
 			el = create_node(node, k)
 			add_node el, v
 		end
-	elsif root.respond_to? :each
+	elsif root.kind_of? Array
 		root.each do |v|
 			add_node node, v
 		end
